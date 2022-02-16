@@ -6,6 +6,9 @@
 - Pubspec.yaml
 - Architecture 
 
+- LinkedIn Profile
+https://www.linkedin.com/in/abhishek-m-patil-96bb67124/
+
 Simple Static GreenTick Assessment Application.
 
 ![Screenshot_1645023601](https://user-images.githubusercontent.com/31755475/154295043-fa297c5a-1ff0-4de5-8404-e8cd40560838.png)
