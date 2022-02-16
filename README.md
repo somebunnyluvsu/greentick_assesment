@@ -1,6 +1,10 @@
 # greentick_assesment
 
-A new Flutter project.
+Simple Static GreenTick Assessment Application.
+
+![Screenshot_1645023601](https://user-images.githubusercontent.com/31755475/154295043-fa297c5a-1ff0-4de5-8404-e8cd40560838.png)
+
+![Screenshot_1645023615](https://user-images.githubusercontent.com/31755475/154295067-5e607f00-05af-4d55-9d9f-52c165023864.png)
 
 ## Getting Started
 
