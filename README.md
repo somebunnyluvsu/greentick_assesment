@@ -1,5 +1,11 @@
 # greentick_assesment
 
+- Card
+- Scrollable
+- Fonts
+- Pubspec.yaml
+- Architecture 
+
 Simple Static GreenTick Assessment Application.
 
 ![Screenshot_1645023601](https://user-images.githubusercontent.com/31755475/154295043-fa297c5a-1ff0-4de5-8404-e8cd40560838.png)
